@@ -1,0 +1,49 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon.ru" resolutions="1x" timestamp="1559676659283">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="330652937" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ralewaybold.woff" crc="67011967"/>
+    <file name="ralewaybold.eot" crc="170415967"/>
+    <file name="ralewaybold.svg" crc="498000969"/>
+    <file name="ralewaymedium.woff" crc="5153477"/>
+    <file name="ralewaymedium.eot" crc="3782214543"/>
+    <file name="ralewaymedium.svg" crc="88993157"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="268724295" ref="phone>index"/>
+    <file name="bolts-1531090_1920.jpg" crc="82660017" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screw2-u588-fr.png" crc="4172516673" ref="phone>index"/>
+    <file name="screw2.png" crc="411058661" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screw22.png" crc="485515014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4230792783" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="20412202" seo="true" mt="1559676581435" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="153107419" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3847981192" seo="true" mt="1559676623557" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="530877478" seo="true" mt="1559676442914" redirect="true"/>
+</manifest>
